@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "A deep dive into the future of AI and its potential impact on society."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "category": ["Web Development", "Scalability"],
+    "duration": 60,
+    "description": "Learn how to build web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Dr. Alan Grant"],
+    "category": ["Cybersecurity", "Quantum Computing"],
+    "duration": 60,
+    "description": "An exploration of the new security challenges in the age of quantum computing."
+  },
+  {
+    "title": "The Rise of Serverless Architectures",
+    "speakers": ["Emily White"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": 60,
+    "description": "A look at the benefits and challenges of serverless computing."
+  },
+  {
+    "title": "Data Science for Social Good",
+    "speakers": ["Dr. Maria Rodriguez"],
+    "category": ["Data Science", "Social Impact"],
+    "duration": 60,
+    "description": "Using data science to address some of the world's most pressing social problems."
+  },
+  {
+    "title": "The Ethics of AI",
+    "speakers": ["Professor David Chen"],
+    "category": ["AI", "Ethics"],
+    "duration": 60,
+    "description": "A discussion on the ethical considerations of developing and deploying AI."
+  }
+]
